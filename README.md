@@ -53,6 +53,12 @@ https://github.com/user-attachments/assets/c90799f7-52bb-4c90-90db-4890281991c1
 <img src="https://github.com/uiriansan/SilentSDDM/blob/main/docs/previews/catppuccin-mocha.png" width="100%" />
 </details>
 
+<details>
+  <summary>configs/new.conf</summary>
+<img src="./docs/previews/silent1.png" width="100%" />
+<img src="./docs/previews/silent2.png" width="100%" />
+</details>
+
 [`Customization guide`](#Customizing)
 
 # Dependencies
