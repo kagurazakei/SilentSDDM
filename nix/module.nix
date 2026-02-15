@@ -185,7 +185,7 @@ in
           InputMethod = "qtvirtualkeyboard";
         };
         Theme = {
-          CursorTheme = "Kureiji-Ollie-v2";
+          CursorTheme = "Reichi-Shinigami";
         };
       };
     };
