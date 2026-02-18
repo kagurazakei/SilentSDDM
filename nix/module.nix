@@ -167,7 +167,7 @@ in
     environment.systemPackages = [
       silent'
       silent'.test
-      inputs.shizuruPkgs.packages.${pkgs.stdenv.hostPlatform.system}.kureiji-ollie-cursors
+    
     ];
     qt.enable = true;
     systemd.services.display-manager.enable = true;
@@ -184,9 +184,7 @@ in
           GreeterEnvironment = "QML2_IMPORT_PATH=${silent'}/share/sddm/themes/silent/components/,QT_IM_MODULE=qtvirtualkeyboard";
           InputMethod = "qtvirtualkeyboard";
         };
-        Theme = {
-          CursorTheme = "Reichi-Shinigami";
-        };
+   
       };
     };
 
