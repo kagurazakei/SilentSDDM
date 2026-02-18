@@ -10,7 +10,7 @@
     }:
     let
       inherit (nixpkgs) lib legacyPackages;
-      inherit (shizuruPkgs) ;
+      
       systems = [
         "x86_64-linux"
         "aarch64-linux"
