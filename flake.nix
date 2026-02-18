@@ -6,7 +6,7 @@
     {
       self,
       nixpkgs,
-      shizuruPkgs,
+
     }:
     let
       inherit (nixpkgs) lib legacyPackages;
